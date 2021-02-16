@@ -20,7 +20,7 @@ Hey There! I am Dhaval , a Software Developer and Data Enthusiast!
 - 🌱 I’m currently learning LookML
 - 👯 I’m looking to collaborate on 
 - 💬 Ask me about anything tech 
-- 📫 How to reach me:  dhaval.thakur@uwaterloo.ca
+- 📫 How to reach me:  dhaval.thakur@uwaterloo.ca , http://dhavalthakur.tk
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I run tech blogs and YouTube Channel.
 
