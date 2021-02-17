@@ -18,7 +18,7 @@ Hey There! I am Dhaval , a Software Developer and Data Enthusiast!
 
 - 🔭 I’m currently working on Deep Learning Projects
 - 🌱 I’m currently learning LookML
-- 👯 I’m looking to collaborate on 
+- 👯 I’m looking to collaborate on data science projects
 - 💬 Ask me about anything tech 
 - 📫 How to reach me:  dhaval.thakur@uwaterloo.ca , http://dhavalthakur.tk
 - 😄 Pronouns: He/him
